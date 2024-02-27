@@ -1,0 +1,27 @@
+@import 'fonts';
+
+// Color palette
+$bg-color: #F5EFEC;
+$theme-black: #0F0A0A;
+$theme-yellow: #FDD730;
+$theme-purple: #8C52E5;
+$theme-sea-green: #2EBFA5;
+$theme-alt-white: #F0F4F1;
+$theme-white: #FFFFFF;
+// List of colors
+$list-colors: #FEEEAB, #D0B9F4, #AAE5DA;
+
+$list-selection-colors: $theme-yellow, $theme-purple, $theme-sea-green;
+
+// Fonts
+$primary-font: 'obviously-variable', sans-serif;
+$poppins-medium: 'Poppins-Medium', sans-serif;
+$poppins-regular: 'Poppins-Regular', sans-serif;
+$poppins-light: 'Poppins-Light', sans-serif;
+$barlow-semibold: 'BarlowCondensed-SemiBold', sans-serif;
+$barlow-medium: 'BarlowCondensed-Medium', sans-serif;
+$barlow-regular: 'BarlowCondensed-Regular', sans-serif;
+$barlow-light: 'BarlowCondensed-Light', sans-serif;
+
+// Transitions
+$transition: all .3s ease-in 0s;
